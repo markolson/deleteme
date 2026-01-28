@@ -2,4 +2,4 @@
 
 An iOS/Android/Web app for displaying `a.txt`
 
-Current version 0.0.1
+Current version 0.0.0
